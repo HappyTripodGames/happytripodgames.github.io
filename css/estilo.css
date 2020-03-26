@@ -28,6 +28,10 @@ header {
   color: white;
 }
 
+#logo {
+  max-width: 90%;
+}
+
 main {
   flex: 1;
   padding: 20px;
@@ -39,6 +43,7 @@ iframe {
   margin: 0 auto;
   width: 315px;
   height: 560px;
+  max-width: 90%;
   border: 0;
 }
 
