@@ -13,10 +13,10 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  CuboCombo:
+    - Politicas: "https://beautifuljekyll.com"
+    - Termos: "https://www.markdowntutorial.com/"
+  Itch.io: "happytripod.itch.io/"
 
 # --- Logo --- #
 
@@ -38,12 +38,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  rss: true
+  email: "happytripodgames@gmail.com"
+  facebook: happytripodgames
+  instagram: happytripodgames
+  twitter: happytripod
+  rss: false
 #  reddit: yourname
+#  github: daattali
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
