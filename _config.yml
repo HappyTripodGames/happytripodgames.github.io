@@ -13,10 +13,6 @@ author: Biel
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
   Termos de uso:
     - CuboCombo:
       - Termos e Condições: "https://happytripodgames.github.io/cc_terms_conditions/"
